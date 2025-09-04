@@ -1,0 +1,12 @@
+# How to install:
+# Open your terminal in the project directory and run:
+# pip install -r requirements.txt
+
+numpy        # For numerical operations and array handling
+pandas       # For data manipulation and analysis
+yfinance     # To fetch historical stock market data from Yahoo Finance
+keras        # For building and running machine learning models
+scikit-learn # For data preprocessing and ML utilities
+matplotlib   # For plotting charts and visualizations
+streamlit    # To create interactive web apps for your ML model
+jupyter      # To run and edit Jupyter notebooks for experimentation and analysis
